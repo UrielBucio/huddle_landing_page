@@ -1,0 +1,16 @@
+:root {
+    --violet: hsl(257, 40%, 49%);
+    --softMagenta: hsl(300, 69%, 71%);
+    --poppinsFont: 'Poppins', sans-serif;
+    --openFont: 'Open Sans', sans-serif;
+}
+
+.icon_social {
+    width: 10px;
+}
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
